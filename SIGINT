@@ -1,0 +1,7 @@
+.TH SIGINT
+.SH NAME
+SIGINT 
+.SH SYNOPSIS
+SIGINT kill
+.SH DESCRIPTION
+SIGINT is the signal sent when we press Ctrl+C.
